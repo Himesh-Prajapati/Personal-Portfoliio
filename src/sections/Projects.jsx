@@ -5,7 +5,7 @@ const projects = [
     title: "Employee Management System",
     description:
       "Developed a full-stack Employee Management System using React, TailwindCSS, Java Spring Boot, and MySQL to manage employee records, departments, attendance, and payroll operations efficiently. Features include responsive UI, secure REST APIs, and CRUD functionality.",
-    image: "/public/projects/EMS.png",
+    image: "/projects/ems.png",
     tags: ["React", "Java", "SpringBoot", "MySql"],
     link: "#",
     github: "#",
@@ -32,7 +32,7 @@ const projects = [
     title: "Banking Application (Secure Bank",
     description:
       "Developing a secure Banking Application using React, TailwindCSS, Java Spring Boot, and PostgreSQL with features like user authentication, money transfer, transaction history, and account management through a responsive and user-friendly interface.",
-    image: "/projects/Banking.png",
+    image: "/projects/banking.png",
     tags: ["React.js", "TailwindCSS", "Java", "Spring Boot", "PostgreSQL", "JWT Authentication", "REST APIs"],
     link: "#",
     github: "#",
